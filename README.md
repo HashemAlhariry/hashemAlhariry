@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashem Alhariry</h1>
-<h3 align="center">A Java backend developer with the potential skills of being a full stack developer</h3>
+<h3 align="center">A Java backend developer</h3>
 
 - 📫 How to reach me **hashemalhariry33@gmail.com**
 - 🌱 I’m currently learning enterprise and web application development using Java
