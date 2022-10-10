@@ -2,7 +2,7 @@
 <h3 align="center">A Java backend developer</h3>
 
 - 📫 How to reach me **hashemalhariry33@gmail.com**
-- 🌱 I’m currently learning enterprise and web application development using Java
+- 🌱 I’m currently working as software engineer @Vodafone
  - :office: worked for a year in the Mobile field with cross platform (Flutter) and Native Android (Java)
 
 <h3 align="left">Connect with me:</h3>
