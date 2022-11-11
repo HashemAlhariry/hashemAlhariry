@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **hashemalhariry33@gmail.com**
 - 🌱 I’m currently working as Junior JAVA Software Engineer @Vodafone
- - :office: worked for a year in the Mobile field with cross platform (Flutter) and Native Android (Java)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
